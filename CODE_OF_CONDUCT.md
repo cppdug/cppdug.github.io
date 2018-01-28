@@ -3,6 +3,8 @@ title: Code of Conduct
 permalink: /codeofconduct
 ---
 
+# Code of Conduct
+
 ### Table of Contents
 
 - [Purpose](#purpose)
