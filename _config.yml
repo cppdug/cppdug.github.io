@@ -9,9 +9,4 @@ github_username:  cppdug
 
 show_downloads: false
 
-github:
-  - is_project_page: true
-  - owner_name: "CPPDUG Organisers"
-  - owner_url: "https://www.meetup.com/cppdug/members/?op=leaders"
-
 theme: jekyll-theme-slate
