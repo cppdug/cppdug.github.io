@@ -5,8 +5,9 @@ description: > # this means to ignore newlines until "baseurl:"
   Dublin C/C++ User Group
 url: "https://cppdug.github.io" # the base hostname & protocol for your site
 twitter_username: cppdug
-github_username:  cppdug
+github_username: cppdug
 
-show_downloads: false
+owner_name: "The CPPDUG Organisers"
+owner_url: "https://www.meetup.com/cppdug/members/?op=leaders"
 
 theme: jekyll-theme-slate
