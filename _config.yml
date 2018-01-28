@@ -1,1 +1,12 @@
+# Site settings
+title: CPPDUG
+email: cppdug-list@meetup.com
+description: > # this means to ignore newlines until "baseurl:"
+  Dublin C/C++ User Group
+show_downloads: false
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://cppdug.github.io" # the base hostname & protocol for your site
+twitter_username: cppdug
+github_username:  cppdug
+
 theme: jekyll-theme-slate
