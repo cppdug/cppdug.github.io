@@ -1,7 +1,3 @@
----
-layout: default
----
+[Meetup page](https://www.meetup.com/cppdug/)
 
-## CPPDUG
-
-Dublin C/C++ User Group (CPPDUG) Public Site
+[Code of Conduct](/codeofconduct)
